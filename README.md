@@ -4,7 +4,7 @@ A Python project for text recognition from images using Tesseract OCR would invo
 ![numbers](https://github.com/parekhdhruvee/Text-Recognition-from-Image-using-Tesseract-OCR/assets/56766743/5c3e4895-e2ff-4a75-a09f-f284edc82a89)
 
 # Output by OCR 
-Pie
+Pie\n
 012345
 6 7 8 9 10
 “11 12 13 14 15
